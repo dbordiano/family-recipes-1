@@ -9,6 +9,7 @@
 
 ##Directions:
 
-1. Put rice in a bowl.
-2. Put all that other stuff on the rice.
-3. (Try to) Enjoy your ridiculously cheap and easy meal.
+1. Cook rice
+2. Put rice in a bowl.
+3. Put all that other stuff on the rice.
+4. (Try to) Enjoy your ridiculously cheap and easy meal.
